@@ -1,0 +1,42 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  height: 100vh;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Raleway, sans-serif;
+  background-color: #f1f5f8;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+ol,
+li,
+blockquote {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: inherit;
+}
+
+img {
+  width: 100%;
+}
+
+button {
+  font: inherit;
+}
