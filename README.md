@@ -8,7 +8,7 @@ Perfect mini-project to practice DOM manipulation and random color generation wi
 ## 🚀 Live Demo
 
 🔗 [Live Demo](https://themartisuper.github.io/background-changer)
-*(replace with your actual GitHub Pages link)*
+*(GitHub Pages)*
 
 ![preview](https://github.com/themartisuper/background-changer/blob/main/preview.gif)
 
